@@ -10,3 +10,8 @@ credited with inventing the first mechanical computer, the Difference Engine, th
 Babbage, who died before the complete successful engineering of many of his designs, 
 including his Difference Engine and Analytical Engine, remained a prominent figure in the ideating of computing. Parts of Babbage's incomplete mechanisms are on display in
  the Science Museum in London.
+
+
+In 1991, a functioning difference engine was constructed from Babbage's original plans. Built to tolerances achievable in the 19th century,
+ the success of the finished engine indicated that Babbage's machine would have worked.
+
